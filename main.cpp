@@ -18,5 +18,6 @@ int main()
 	for (auto v : str_lst)
 		std::cout << v << " ";
 	std::cout << "\n\n";
+	std::cout << "Test complete";
 	return 0;
 }
